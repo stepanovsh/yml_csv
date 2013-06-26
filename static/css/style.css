@@ -1,0 +1,9 @@
+body {
+    font: Times;
+    font-size: 12px;
+}
+
+#content{
+    width: 700px;
+    border: 1px solid black;
+}
